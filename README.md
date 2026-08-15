@@ -1,6 +1,4 @@
-# allele-public
-
-# Allele — Supply Commitment
+# Allele Supply Commitment
 
 A creature breeding game on Solana with real recessive genetics.
 
