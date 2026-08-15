@@ -117,4 +117,4 @@ that specific claim is the one you can check above.
 
 ## License
 
-MIT
+[MIT](https://github.com/stripe/ai/blob/main/LICENSE)
